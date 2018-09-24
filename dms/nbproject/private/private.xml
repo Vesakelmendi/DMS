@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/DAL/EntMngClass.java</file>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/DAL/User/UserInterface.java</file>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/BL/Log.java</file>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/DAL/Categories/CatInterface.java</file>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/GUI/Raports.java</file>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/DAL/Categories/CatRepository.java</file>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/DAL/User/UserException.java</file>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/BL/User.java</file>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/DAL/DmsInterface.java</file>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/BL/AccessLog.java</file>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/DAL/DmsRepository.java</file>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/BL/Category.java</file>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/DAL/User/UserRepository.java</file>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/GUI/LoginForm.java</file>
+            <file>file:/C:/Users/Vesa/Desktop/Dmsd/Dmsd/dms/dms/src/GUI/HomeForm.java</file>
+        </group>
+    </open-files>
+</project-private>
